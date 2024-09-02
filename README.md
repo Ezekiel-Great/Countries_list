@@ -26,7 +26,6 @@ The World Country List project is designed to display the names of countries fet
 
 ## Live Site
 Check out the live site at [World Country List](https://ezekiel-great.github.io/Countries_list/).
-https://ezekiel-great.github.io/Number_generator/
 ## Technologies Used
 - **HTML:** Structure of the webpage.
 - **CSS:** Styling and responsive design.
